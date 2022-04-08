@@ -50,4 +50,3 @@ include(plugin_dir_path(__FILE__) . 'inc/getro-api-company-jobs.php');
 
 // All jobs display shortcode [getro-all-jobs]
 include(plugin_dir_path(__FILE__) . 'inc/getro-api-all-jobs.php');
-
