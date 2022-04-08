@@ -1,0 +1,425 @@
+.job-block-two {
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.job-block-two li {
+    list-style: none;
+    margin: 0;
+}
+
+.job-block-two .inner-box {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    padding: 32px 20px 15px 30px;
+    background: #FFFFFF;
+    border: 1px solid #ECEDF2;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transition: all 300ms ease;
+}
+
+.job-block-two .content {
+    position: relative;
+    padding-left: 80px;
+    min-height: 60px;
+    padding-top: 2px;
+}
+
+.job-block-two .company-logo {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 60px;
+    transition: all 300ms ease;
+}
+
+.job-block-two .company-logo img {
+    display: block;
+    width: 100%;
+}
+
+.ls-section h4 {
+    position: relative;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    color: #202124;
+    margin-bottom: 16px;
+}
+
+.job-block-two .job-info {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+
+.job-block-two .job-info li {
+    position: relative;
+    font-size: 16px;
+    line-height: 22px;
+    color: #696969;
+    font-weight: 400;
+    padding-left: 25px;
+    margin-bottom: 5px;
+    margin-right: 20px;
+}
+
+.job-block-two .job-other-info {
+    position: relative;
+    display: flex;
+    align-items: center;
+    top: 9px;
+}
+
+.job-other-info li.green,
+.job-other-info li.privacy {
+    background: rgba(52, 168, 83, 0.15);
+    color: #34A853;
+}
+
+.job-other-info li.time {
+    background: rgba(25, 103, 210, 0.15);
+    color: #1967D2;
+}
+
+.job-block-two .job-info li .icon {
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 18px;
+    line-height: 22px;
+    color: #696969;
+}
+
+.job-block-two .job-info li .icon {
+    font-size: 18px;
+    line-height: 22px;
+    color: #696969;
+}
+
+.job-search-form {
+    position: relative;
+    border-radius: 10px;
+    min-width: 740px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.job-search-form form {
+    padding: 20px 20px;
+    border-radius: 10px;
+}
+
+.job-search-form .form-group {
+    position: relative;
+    text-align: left;
+    margin-bottom: 0;
+    margin-right: -13px;
+    width: 50%
+}
+
+.btn-style-one {
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    color: #ffffff;
+    font-size: 15px;
+    line-height: 25px;
+    border-radius: 8px;
+    font-weight: 400;
+}
+
+.icon.fas.fa-search {
+    position: absolute;
+    top: 20px;
+    z-index: 9999;
+    left: 21px;
+    font-size: 22px;
+    color: #bbb5b5;
+}
+
+.job-block-four .inner-box {
+    position: relative;
+    padding: 5px 15px 5px 2px;
+    background: #FFFFFF;
+    border: 1px solid #ECEDF2;
+    border-radius: 8px;
+    transition: all 300ms ease;
+    text-align: center;
+    min-height: 400px;
+    margin-bottom: 25px;
+}
+
+.job-block-four .job-other-info {
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 10px 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.job-block-four .company-logo {
+    position: relative;
+    display: block;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto 12px;
+    transition: all 300ms ease;
+}
+
+.job-block-four .company-name {
+    position: relative;
+    display: block;
+    font-size: 14px;
+    line-height: 19px;
+    color: #34A853;
+    margin-bottom: 6px;
+}
+
+.job-block-four h4 {
+    position: relative;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    color: #202124;
+    margin-bottom: 16px;
+}
+
+.job-block-four .location {
+    position: relative;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 22px;
+    color: #696969;
+    font-weight: 400;
+    padding-left: 25px;
+}
+
+.job-block-four .location .icon {
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 18px;
+    line-height: 22px;
+    color: #696969;
+}        .job-block-two {
+            position: relative;
+            margin-bottom: 30px;
+        }
+
+        .job-block-two li {
+            list-style: none;
+            margin: 0;
+        }
+
+        .job-block-two .inner-box {
+            position: relative;
+            display: flex;
+            justify-content: space-between;
+            padding: 32px 20px 15px 30px;
+            background: #FFFFFF;
+            border: 1px solid #ECEDF2;
+            box-sizing: border-box;
+            border-radius: 10px;
+            transition: all 300ms ease;
+        }
+
+        .job-block-two .content {
+            position: relative;
+            padding-left: 80px;
+            min-height: 60px;
+            padding-top: 2px;
+        }
+
+        .job-block-two .company-logo {
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 60px;
+            transition: all 300ms ease;
+        }
+
+        .job-block-two .company-logo img {
+            display: block;
+            width: 100%;
+        }
+
+        .ls-section h4 {
+            position: relative;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 24px;
+            color: #202124;
+            margin-bottom: 16px;
+        }
+
+        .job-block-two .job-info {
+            position: relative;
+            display: flex;
+            flex-wrap: wrap;
+            margin-bottom: 10px;
+        }
+
+        .job-block-two .job-info li {
+            position: relative;
+            font-size: 16px;
+            line-height: 22px;
+            color: #696969;
+            font-weight: 400;
+            padding-left: 25px;
+            margin-bottom: 5px;
+            margin-right: 20px;
+        }
+
+        .job-block-two .job-other-info {
+            position: relative;
+            display: flex;
+            align-items: center;
+            top: 9px;
+        }
+
+        .job-other-info li.green,
+        .job-other-info li.privacy {
+            background: rgba(52, 168, 83, 0.15);
+            color: #34A853;
+        }
+
+        .job-other-info li.time {
+            background: rgba(25, 103, 210, 0.15);
+            color: #1967D2;
+        }
+
+        .job-block-two .job-info li .icon {
+            position: absolute;
+            left: 0;
+            top: 0;
+            font-size: 18px;
+            line-height: 22px;
+            color: #696969;
+        }
+
+        .job-block-two .job-info li .icon {
+            font-size: 18px;
+            line-height: 22px;
+            color: #696969;
+        }
+
+        .job-search-form {
+            position: relative;
+            border-radius: 10px;
+            min-width: 740px;
+            margin-bottom: 30px;
+            margin-top: 30px;
+        }
+
+        .job-search-form form {
+            padding: 20px 20px;
+            border-radius: 10px;
+        }
+
+        .job-search-form .form-group {
+            position: relative;
+            text-align: left;
+            margin-bottom: 0;
+            margin-right: -13px;
+            width: 50%
+        }
+
+        .btn-style-one {
+            position: relative;
+            text-align: center;
+            white-space: nowrap;
+            color: #ffffff;
+            font-size: 15px;
+            line-height: 25px;
+            border-radius: 8px;
+            font-weight: 400;
+        }
+
+        .icon.fas.fa-search {
+            position: absolute;
+            top: 20px;
+            z-index: 9999;
+            left: 21px;
+            font-size: 22px;
+            color: #bbb5b5;
+        }
+
+        .job-block-four .inner-box {
+            position: relative;
+            padding: 5px 15px 5px 2px;
+            background: #FFFFFF;
+            border: 1px solid #ECEDF2;
+            border-radius: 8px;
+            transition: all 300ms ease;
+            text-align: center;
+            min-height: 400px;
+            margin-bottom: 25px;
+        }
+
+        .job-block-four .job-other-info {
+            position: absolute;
+            left: 0;
+            top: 0;
+            padding: 10px 0;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+        }
+
+        .job-block-four .company-logo {
+            position: relative;
+            display: block;
+            height: 90px;
+            width: 90px;
+            border-radius: 50%;
+            overflow: hidden;
+            margin: 0 auto 12px;
+            transition: all 300ms ease;
+        }
+
+        .job-block-four .company-name {
+            position: relative;
+            display: block;
+            font-size: 14px;
+            line-height: 19px;
+            color: #34A853;
+            margin-bottom: 6px;
+        }
+
+        .job-block-four h4 {
+            position: relative;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 24px;
+            color: #202124;
+            margin-bottom: 16px;
+        }
+
+        .job-block-four .location {
+            position: relative;
+            display: inline-block;
+            font-size: 14px;
+            line-height: 22px;
+            color: #696969;
+            font-weight: 400;
+            padding-left: 25px;
+        }
+
+        .job-block-four .location .icon {
+            position: absolute;
+            left: 0;
+            top: 0;
+            font-size: 18px;
+            line-height: 22px;
+            color: #696969;
+        }
